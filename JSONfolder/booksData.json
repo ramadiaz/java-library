@@ -1,0 +1,1032 @@
+[
+  {
+    "bookCode": 1,
+    "borrowedUntil": "-",
+    "author": "Jane Austen",
+    "publisher": "T. Egerton",
+    "bookName": "Pride and Prejudice",
+    "releaseYear": 1813,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 2,
+    "borrowedUntil": "-",
+    "author": "Harper Lee",
+    "publisher": "J. B. Lippincott & Co.",
+    "bookName": "To Kill a Mockingbird",
+    "releaseYear": 1960,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 3,
+    "borrowedUntil": "2023-07-09",
+    "author": "George Orwell",
+    "publisher": "Secker & Warburg",
+    "bookName": "1984",
+    "releaseYear": 1949,
+    "bookType": "Fiction",
+    "status": "borrowed"
+  },
+  {
+    "bookCode": 4,
+    "borrowedUntil": "-",
+    "author": "F. Scott Fitzgerald",
+    "publisher": "Charles Scribner's Sons",
+    "bookName": "The Great Gatsby",
+    "releaseYear": 1925,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 5,
+    "borrowedUntil": "-",
+    "author": "J.K. Rowling",
+    "publisher": "Bloomsbury Publishing",
+    "bookName": "Harry Potter and the Sorcerer's Stone",
+    "releaseYear": 1997,
+    "bookType": "Fantasy",
+    "status": "available"
+  },
+  {
+    "bookCode": 6,
+    "borrowedUntil": "-",
+    "author": "J.R.R. Tolkien",
+    "publisher": "George Allen & Unwin",
+    "bookName": "The Lord of the Rings: The Fellowship of the Ring",
+    "releaseYear": 1954,
+    "bookType": "Fantasy",
+    "status": "available"
+  },
+  {
+    "bookCode": 7,
+    "borrowedUntil": "-",
+    "author": "J.D. Salinger",
+    "publisher": "Little, Brown and Company",
+    "bookName": "The Catcher in the Rye",
+    "releaseYear": 1951,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 8,
+    "borrowedUntil": "-",
+    "author": "Gabriel García Márquez",
+    "publisher": "Harper & Row",
+    "bookName": "One Hundred Years of Solitude",
+    "releaseYear": 1967,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 9,
+    "borrowedUntil": "-",
+    "author": "Fyodor Dostoevsky",
+    "publisher": "The Russian Messenger",
+    "bookName": "Crime and Punishment",
+    "releaseYear": 1866,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 10,
+    "borrowedUntil": "-",
+    "author": "J.R.R. Tolkien",
+    "publisher": "George Allen & Unwin",
+    "bookName": "The Hobbit",
+    "releaseYear": 1937,
+    "bookType": "Fantasy",
+    "status": "available"
+  },
+  {
+    "bookCode": 11,
+    "borrowedUntil": "-",
+    "author": "C.S. Lewis",
+    "publisher": "Geoffrey Bles",
+    "bookName": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "releaseYear": 1950,
+    "bookType": "Fantasy",
+    "status": "available"
+  },
+  {
+    "bookCode": 12,
+    "borrowedUntil": "-",
+    "author": "Paulo Coelho",
+    "publisher": "HarperCollins",
+    "bookName": "The Alchemist",
+    "releaseYear": 1988,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 13,
+    "borrowedUntil": "-",
+    "author": "Aldous Huxley",
+    "publisher": "Chatto & Windus",
+    "bookName": "Brave New World",
+    "releaseYear": 1932,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 14,
+    "borrowedUntil": "-",
+    "author": "Herman Melville",
+    "publisher": "Richard Bentley (UK), Harper & Brothers (US)",
+    "bookName": "Moby-Dick",
+    "releaseYear": 1851,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 15,
+    "borrowedUntil": "-",
+    "author": "Antoine de Saint-Exupéry",
+    "publisher": "Reynal & Hitchcock",
+    "bookName": "The Little Prince",
+    "releaseYear": 1943,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 16,
+    "borrowedUntil": "-",
+    "author": "Charlotte Brontë",
+    "publisher": "Smith, Elder & Co.",
+    "bookName": "Jane Eyre",
+    "releaseYear": 1847,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 17,
+    "borrowedUntil": "-",
+    "author": "Homer",
+    "publisher": "N/A",
+    "bookName": "The Odyssey",
+    "releaseYear": -800,
+    "bookType": "Epic Poetry",
+    "status": "available"
+  },
+  {
+    "bookCode": 18,
+    "borrowedUntil": "-",
+    "author": "Oscar Wilde",
+    "publisher": "Lippincott's Monthly Magazine",
+    "bookName": "The Picture of Dorian Gray",
+    "releaseYear": 1890,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 19,
+    "borrowedUntil": "-",
+    "author": "Dante Alighieri",
+    "publisher": "Foligno, Italy",
+    "bookName": "The Divine Comedy",
+    "releaseYear": 1308,
+    "bookType": "Epic Poetry",
+    "status": "available"
+  },
+  {
+    "bookCode": 20,
+    "borrowedUntil": "-",
+    "author": "George Orwell",
+    "publisher": "Secker & Warburg",
+    "bookName": "Animal Farm",
+    "releaseYear": 1945,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 21,
+    "borrowedUntil": "2023-07-04",
+    "author": "Mark Twain",
+    "publisher": "Chatto & Windus (UK), Charles L. Webster & Co. (US)",
+    "bookName": "The Adventures of Huckleberry Finn",
+    "releaseYear": 1884,
+    "bookType": "Fiction",
+    "status": "borrowed"
+  },
+  {
+    "bookCode": 22,
+    "borrowedUntil": "-",
+    "author": "Leo Tolstoy",
+    "publisher": "The Russian Messenger",
+    "bookName": "Anna Karenina",
+    "releaseYear": 1877,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 23,
+    "borrowedUntil": "2023-07-04",
+    "author": "Alexandre Dumas",
+    "publisher": "Pétion",
+    "bookName": "The Count of Monte Cristo",
+    "releaseYear": 1844,
+    "bookType": "Fiction",
+    "status": "borrowed"
+  },
+  {
+    "bookCode": 24,
+    "borrowedUntil": "-",
+    "author": "Mary Shelley",
+    "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+    "bookName": "Frankenstein",
+    "releaseYear": 1818,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 25,
+    "borrowedUntil": "-",
+    "author": "Homer",
+    "publisher": "N/A",
+    "bookName": "The Iliad",
+    "releaseYear": -800,
+    "bookType": "Epic Poetry",
+    "status": "available"
+  },
+  {
+    "bookCode": 26,
+    "borrowedUntil": "-",
+    "author": "Victor Hugo",
+    "publisher": "A. Lacroix, Verboeckhoven & Cie.",
+    "bookName": "Les Misérables",
+    "releaseYear": 1862,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 27,
+    "borrowedUntil": "-",
+    "author": "Khaled Hosseini",
+    "publisher": "Riverhead Books",
+    "bookName": "The Kite Runner",
+    "releaseYear": 2003,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 28,
+    "borrowedUntil": "2023-09-18",
+    "author": "Emily Brontë",
+    "publisher": "Thomas Cautley Newby",
+    "bookName": "Wuthering Heights",
+    "releaseYear": 1847,
+    "bookType": "Fiction",
+    "status": "borrowed"
+  },
+  {
+    "bookCode": 29,
+    "borrowedUntil": "-",
+    "author": "Mark Twain",
+    "publisher": "American Publishing Co.",
+    "bookName": "The Adventures of Tom Sawyer",
+    "releaseYear": 1876,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 30,
+    "borrowedUntil": "-",
+    "author": "Fyodor Dostoevsky",
+    "publisher": "The Russian Messenger",
+    "bookName": "The Brothers Karamazov",
+    "releaseYear": 1880,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 31,
+    "borrowedUntil": "-",
+    "author": "John Steinbeck",
+    "publisher": "The Viking Press",
+    "bookName": "The Grapes of Wrath",
+    "releaseYear": 1939,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 32,
+    "borrowedUntil": "-",
+    "author": "Markus Zusak",
+    "publisher": "Picador (Australia), Knopf (US)",
+    "bookName": "The Book Thief",
+    "releaseYear": 2005,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 33,
+    "borrowedUntil": "-",
+    "author": "Margaret Mitchell",
+    "publisher": "Macmillan Publishers",
+    "bookName": "Gone with the Wind",
+    "releaseYear": 1936,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 34,
+    "borrowedUntil": "-",
+    "author": "Kurt Vonnegut",
+    "publisher": "Delacorte Press",
+    "bookName": "Slaughterhouse-Five",
+    "releaseYear": 1969,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 35,
+    "borrowedUntil": "-",
+    "author": "Geoffrey Chaucer",
+    "publisher": "N/A",
+    "bookName": "The Canterbury Tales",
+    "releaseYear": -1400,
+    "bookType": "Poetry",
+    "status": "available"
+  },
+  {
+    "bookCode": 36,
+    "borrowedUntil": "-",
+    "author": "Dan Brown",
+    "publisher": "Doubleday",
+    "bookName": "The Da Vinci Code",
+    "releaseYear": 2003,
+    "bookType": "Thriller",
+    "status": "available"
+  },
+  {
+    "bookCode": 37,
+    "borrowedUntil": "-",
+    "author": "Margaret Atwood",
+    "publisher": "McClelland and Stewart",
+    "bookName": "The Handmaid's Tale",
+    "releaseYear": 1985,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 38,
+    "borrowedUntil": "-",
+    "author": "Ernest Hemingway",
+    "publisher": "Charles Scribner's Sons",
+    "bookName": "The Old Man and the Sea",
+    "releaseYear": 1952,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 39,
+    "borrowedUntil": "-",
+    "author": "Nathaniel Hawthorne",
+    "publisher": "Ticknor, Reed & Fields",
+    "bookName": "The Scarlet Letter",
+    "releaseYear": 1850,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 40,
+    "borrowedUntil": "-",
+    "author": "John Green",
+    "publisher": "Dutton Books",
+    "bookName": "The Fault in Our Stars",
+    "releaseYear": 2012,
+    "bookType": "Young Adult",
+    "status": "available"
+  },
+  {
+    "bookCode": 41,
+    "borrowedUntil": "-",
+    "author": "George R.R. Martin",
+    "publisher": "Bantam Spectra",
+    "bookName": "A Game of Thrones",
+    "releaseYear": 1996,
+    "bookType": "Fantasy",
+    "status": "available"
+  },
+  {
+    "bookCode": 42,
+    "borrowedUntil": "-",
+    "author": "Ernest Hemingway",
+    "publisher": "Scribner's",
+    "bookName": "The Sun Also Rises",
+    "releaseYear": 1926,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 43,
+    "borrowedUntil": "-",
+    "author": "Suzanne Collins",
+    "publisher": "Scholastic Corporation",
+    "bookName": "The Hunger Games",
+    "releaseYear": 2008,
+    "bookType": "Science Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 44,
+    "borrowedUntil": "-",
+    "author": "Cormac McCarthy",
+    "publisher": "Alfred A. Knopf",
+    "bookName": "The Road",
+    "releaseYear": 2006,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 45,
+    "borrowedUntil": "-",
+    "author": "William Golding",
+    "publisher": "Faber and Faber",
+    "bookName": "Lord of the Flies",
+    "releaseYear": 1954,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 46,
+    "borrowedUntil": "-",
+    "author": "Franz Kafka",
+    "publisher": "Kurt Wolff Verlag",
+    "bookName": "The Metamorphosis",
+    "releaseYear": 1915,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 47,
+    "borrowedUntil": "-",
+    "author": "Bram Stoker",
+    "publisher": "Archibald Constable and Company",
+    "bookName": "Dracula",
+    "releaseYear": 1897,
+    "bookType": "Gothic Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 48,
+    "borrowedUntil": "-",
+    "author": "H.G. Wells",
+    "publisher": "William Heinemann",
+    "bookName": "The War of the Worlds",
+    "releaseYear": 1898,
+    "bookType": "Science Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 49,
+    "borrowedUntil": "-",
+    "author": "Alexandre Dumas",
+    "publisher": "Baudry",
+    "bookName": "The Three Musketeers",
+    "releaseYear": 1844,
+    "bookType": "Historical Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 50,
+    "borrowedUntil": "-",
+    "author": "Leo Tolstoy",
+    "publisher": "The Russian Messenger",
+    "bookName": "War and Peace",
+    "releaseYear": 1869,
+    "bookType": "Historical Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 51,
+    "borrowedUntil": "-",
+    "author": "Frances Hodgson Burnett",
+    "publisher": "Frederick Warne & Co.",
+    "bookName": "The Secret Garden",
+    "releaseYear": 1911,
+    "bookType": "Children's Literature",
+    "status": "available"
+  },
+  {
+    "bookCode": 52,
+    "borrowedUntil": "-",
+    "author": "Victor Hugo",
+    "publisher": "Gosselin",
+    "bookName": "The Hunchback of Notre-Dame",
+    "releaseYear": 1831,
+    "bookType": "Gothic Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 53,
+    "borrowedUntil": "-",
+    "author": "Umberto Eco",
+    "publisher": "Bompiani",
+    "bookName": "The Name of the Rose",
+    "releaseYear": 1980,
+    "bookType": "Historical Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 54,
+    "borrowedUntil": "-",
+    "author": "Rebecca Wells",
+    "publisher": "HarperCollins",
+    "bookName": "The Divine Secrets of the Ya-Ya Sisterhood",
+    "releaseYear": 1996,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 55,
+    "borrowedUntil": "-",
+    "author": "Carlo Collodi",
+    "publisher": "Giornale per i bambini",
+    "bookName": "The Adventures of Pinocchio",
+    "releaseYear": 1883,
+    "bookType": "Children's Literature",
+    "status": "available"
+  },
+  {
+    "bookCode": 56,
+    "borrowedUntil": "-",
+    "author": "J.R.R. Tolkien",
+    "publisher": "Allen & Unwin",
+    "bookName": "The Lord of the Rings",
+    "releaseYear": 1954,
+    "bookType": "Fantasy",
+    "status": "available"
+  },
+  {
+    "bookCode": 57,
+    "borrowedUntil": "-",
+    "author": "Fyodor Dostoevsky",
+    "publisher": "The Russian Messenger",
+    "bookName": "Crime and Punishment",
+    "releaseYear": 1866,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 58,
+    "borrowedUntil": "-",
+    "author": "Paulo Coelho",
+    "publisher": "Harper & Row",
+    "bookName": "The Alchemist",
+    "releaseYear": 1988,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 59,
+    "borrowedUntil": "-",
+    "author": "Arthur Conan Doyle",
+    "publisher": "George Newnes Ltd.",
+    "bookName": "The Adventures of Sherlock Holmes",
+    "releaseYear": 1892,
+    "bookType": "Mystery",
+    "status": "available"
+  },
+  {
+    "bookCode": 60,
+    "borrowedUntil": "-",
+    "author": "Yuval Noah Harari",
+    "publisher": "London: Vintage",
+    "bookName": "Sapiens: A Brief History of Humankind",
+    "releaseYear": 2011,
+    "bookType": "Non-fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 61,
+    "borrowedUntil": "-",
+    "author": "Jared Diamond",
+    "publisher": "W.W. Norton",
+    "bookName": "Guns, Germs, and Steel: The Fates of Human Societies",
+    "releaseYear": 1997,
+    "bookType": "Non-fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 62,
+    "borrowedUntil": "-",
+    "author": "Howard Zinn",
+    "publisher": "Harper & Row",
+    "bookName": "A People's History of the United States",
+    "releaseYear": 1980,
+    "bookType": "Non-fiction History",
+    "status": "available"
+  },
+  {
+    "bookCode": 63,
+    "borrowedUntil": "-",
+    "author": "Edward Gibbon",
+    "publisher": "Strahan & Cadell",
+    "bookName": "The Decline and Fall of the Roman Empire",
+    "releaseYear": 1776,
+    "bookType": "Non-fiction History",
+    "status": "available"
+  },
+  {
+    "bookCode": 64,
+    "borrowedUntil": "-",
+    "author": "Francis Fukuyama",
+    "publisher": "Farrar, Straus and Giroux",
+    "bookName": "The Origins of Political Order",
+    "releaseYear": 2011,
+    "bookType": "Non-fiction History",
+    "status": "available"
+  },
+  {
+    "bookCode": 65,
+    "borrowedUntil": "-",
+    "author": "Richard Rhodes",
+    "publisher": "Simon & Schuster",
+    "bookName": "The Making of the Atomic Bomb",
+    "releaseYear": 1986,
+    "bookType": "Non-fiction History",
+    "status": "available"
+  },
+  {
+    "bookCode": 66,
+    "borrowedUntil": "-",
+    "author": "Peter Frankopan",
+    "publisher": "Bloomsbury Publishing",
+    "bookName": "The Silk Roads: A New History of the World",
+    "releaseYear": 2015,
+    "bookType": "Non-fiction History",
+    "status": "available"
+  },
+  {
+    "bookCode": 67,
+    "borrowedUntil": "-",
+    "author": "David McCullough",
+    "publisher": "Simon & Schuster",
+    "bookName": "The Wright Brothers",
+    "releaseYear": 2015,
+    "bookType": "Non-fiction History",
+    "status": "available"
+  },
+  {
+    "bookCode": 68,
+    "borrowedUntil": "-",
+    "author": "Eric Hobsbawm",
+    "publisher": "Verso",
+    "bookName": "The Age of Revolution: Europe 1789-1848",
+    "releaseYear": 1962,
+    "bookType": "Non-fiction History",
+    "status": "available"
+  },
+  {
+    "bookCode": 69,
+    "borrowedUntil": "-",
+    "author": "Andrea Hirata",
+    "publisher": "Bentang Pustaka",
+    "bookName": "Laskar Pelangi",
+    "releaseYear": 2005,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 70,
+    "borrowedUntil": "-",
+    "author": "Pramoedya Ananta Toer",
+    "publisher": "Lentera Dipantera",
+    "bookName": "Bumi Manusia",
+    "releaseYear": 1980,
+    "bookType": "Roman",
+    "status": "available"
+  },
+  {
+    "bookCode": 71,
+    "borrowedUntil": "-",
+    "author": "Ayu Utami",
+    "publisher": "Kepustakaan Populer Gramedia",
+    "bookName": "Pengakuan Eks Parasit Lajang",
+    "releaseYear": 2018,
+    "bookType": "Fiction Comedy",
+    "status": "available"
+  },
+  {
+    "bookCode": 72,
+    "borrowedUntil": "-",
+    "author": "Ayu Utami",
+    "publisher": "Kepustakaan Populer Gramedia",
+    "bookName": "Saman",
+    "releaseYear": 1998,
+    "bookType": "Fiction Sastra",
+    "status": "available"
+  },
+  {
+    "bookCode": 73,
+    "borrowedUntil": "-",
+    "author": "Dewi Lestari",
+    "publisher": "Bentang Pustaka",
+    "bookName": "Perahu Kertas",
+    "releaseYear": 2009,
+    "bookType": "Fiction Sastra",
+    "status": "available"
+  },
+  {
+    "bookCode": 74,
+    "borrowedUntil": "-",
+    "author": "Ahmad Tohari",
+    "publisher": "Lentera Dipantera",
+    "bookName": "Ronggeng Dukuh Paruk",
+    "releaseYear": 1982,
+    "bookType": "Novel",
+    "status": "available"
+  },
+  {
+    "bookCode": 75,
+    "borrowedUntil": "-",
+    "author": "Leila S. Chudori",
+    "publisher": "Kepustakaan Populer Gramedia",
+    "bookName": "Pulang",
+    "releaseYear": 2012,
+    "bookType": "Novel",
+    "status": "available"
+  },
+  {
+    "bookCode": 76,
+    "borrowedUntil": "-",
+    "author": "Andrea Hirata",
+    "publisher": "Bentang Pustaka",
+    "bookName": "Cinta dalam Gelas",
+    "releaseYear": 2011,
+    "bookType": "Novel",
+    "status": "available"
+  },
+  {
+    "bookCode": 77,
+    "borrowedUntil": "-",
+    "author": "Raditya Dika",
+    "publisher": "Gagas Media",
+    "bookName": "Cinta Brontosaurus",
+    "releaseYear": 2012,
+    "bookType": "Fiction, Humor, Romansa",
+    "status": "available"
+  },
+  {
+    "bookCode": 78,
+    "borrowedUntil": "-",
+    "author": "Dee Lestari",
+    "publisher": "Bentang Pustaka",
+    "bookName": "Supernova: Ksatria, Puteri, dan Bintang Jatuh",
+    "releaseYear": 2001,
+    "bookType": "Fiction, Humor, Romansa",
+    "status": "available"
+  },
+  {
+    "bookCode": 79,
+    "borrowedUntil": "-",
+    "author": "Andrea Hirata",
+    "publisher": "Hasta Mitra",
+    "bookName": "Sang Pemimpi",
+    "releaseYear": 1985,
+    "bookType": "Fiction History",
+    "status": "available"
+  },
+  {
+    "bookCode": 80,
+    "borrowedUntil": "-",
+    "author": "Pramoedya Ananta Toer",
+    "publisher": "Hasta Mitra",
+    "bookName": "Jejak Langkah",
+    "releaseYear": 1985,
+    "bookType": "Fiction History",
+    "status": "available"
+  },
+  {
+    "bookCode": 81,
+    "borrowedUntil": "-",
+    "author": "Habiburrahman El Shirazy",
+    "publisher": "Republika Penerbit",
+    "bookName": "Bumi Cinta",
+    "releaseYear": 2005,
+    "bookType": "Fiction Romance",
+    "status": "available"
+  },
+  {
+    "bookCode": 82,
+    "borrowedUntil": "-",
+    "author": "Eka Kurniawan",
+    "publisher": "Gramedia Pustaka Utama",
+    "bookName": "Cantik Itu Luka",
+    "releaseYear": 2002,
+    "bookType": "Fiction, Drama, Sejarah",
+    "status": "available"
+  },
+  {
+    "bookCode": 83,
+    "borrowedUntil": "-",
+    "author": "Pramoedya Ananta Toer",
+    "publisher": "Hasta Mitra",
+    "bookName": "Gadis Pantai",
+    "releaseYear": 1985,
+    "bookType": "Fiction Realisme Sosial",
+    "status": "available"
+  },
+  {
+    "bookCode": 84,
+    "borrowedUntil": "-",
+    "author": "Ayu Utami",
+    "publisher": "Kepustakaan Populer Gramedia",
+    "bookName": "Cerita Cinta Enrico",
+    "releaseYear": 2013,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 85,
+    "borrowedUntil": "-",
+    "author": "Habiburrahman El Shirazy",
+    "publisher": "Republika Penerbit",
+    "bookName": "Ayat-Ayat Cinta",
+    "releaseYear": 2004,
+    "bookType": "Novel",
+    "status": "available"
+  },
+  {
+    "bookCode": 86,
+    "borrowedUntil": "-",
+    "author": "Ahmad Fuadi",
+    "publisher": "Gramedia Pustaka Utama",
+    "bookName": "Negeri 5 Menara",
+    "releaseYear": 2009,
+    "bookType": "Novel",
+    "status": "available"
+  },
+  {
+    "bookCode": 87,
+    "borrowedUntil": "-",
+    "author": "Tere Liye",
+    "publisher": "Gramedia Pustaka Utama",
+    "bookName": "Matahari",
+    "releaseYear": 2016,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 88,
+    "borrowedUntil": "-",
+    "author": "Linus Suryadi AG",
+    "publisher": "Kepustakaan Populer Gramedia",
+    "bookName": "Pengakuan Pariyem",
+    "releaseYear": 2010,
+    "bookType": "Novel",
+    "status": "available"
+  },
+  {
+    "bookCode": 89,
+    "borrowedUntil": "-",
+    "author": "Iksaka Banu",
+    "publisher": "Gramedia Pustaka Utama",
+    "bookName": "Kamar 308",
+    "releaseYear": 2007,
+    "bookType": "Novel",
+    "status": "available"
+  },
+  {
+    "bookCode": 90,
+    "borrowedUntil": "-",
+    "author": "Tere Liye",
+    "publisher": "PT Gramedia Pustaka Utama",
+    "bookName": "Jeritan Malam",
+    "releaseYear": 2004,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 91,
+    "borrowedUntil": "-",
+    "author": "Clara Ng",
+    "publisher": "Gramedia Pustaka Utama",
+    "bookName": "Rumah Kopi Singa Tertawa",
+    "releaseYear": 2011,
+    "bookType": "Novel",
+    "status": "available"
+  },
+  {
+    "bookCode": 92,
+    "borrowedUntil": "-",
+    "author": "Pidi Baiq",
+    "publisher": "Patel Books",
+    "bookName": "Hantu Toko Peralatan Jahanam",
+    "releaseYear": 2015,
+    "bookType": "Novel",
+    "status": "available"
+  },
+  {
+    "bookCode": 93,
+    "borrowedUntil": "-",
+    "author": "Abdul Muis",
+    "publisher": "Balai Pustaka",
+    "bookName": "Babad Tanah Leluhur",
+    "releaseYear": 1949,
+    "bookType": "Roman History",
+    "status": "available"
+  },
+  {
+    "bookCode": 94,
+    "borrowedUntil": "-",
+    "author": "Umar Kayam",
+    "publisher": "Balai Pustaka",
+    "bookName": "Seribu Kunang-kunang di Manhattan",
+    "releaseYear": 1986,
+    "bookType": "Novel",
+    "status": "available"
+  },
+  {
+    "bookCode": 95,
+    "borrowedUntil": "-",
+    "author": "S. Mara Gd",
+    "publisher": "PT Elex Media Komputindo",
+    "bookName": "Suster Ngesot",
+    "releaseYear": 2003,
+    "bookType": "Novel",
+    "status": "available"
+  },
+  {
+    "bookCode": 96,
+    "borrowedUntil": "-",
+    "author": "Raditya Dika",
+    "publisher": "Gagas Media",
+    "bookName": "Kambing Jantan",
+    "releaseYear": 2005,
+    "bookType": "Non-fiction, Humor",
+    "status": "available"
+  },
+  {
+    "bookCode": 97,
+    "borrowedUntil": "-",
+    "author": "Raditya Dika",
+    "publisher": "Gagas Media",
+    "bookName": "Marmut Merah Jambu",
+    "releaseYear": 2008,
+    "bookType": "Fiction, Humor",
+    "status": "available"
+  },
+  {
+    "bookCode": 98,
+    "borrowedUntil": "-",
+    "author": "Raditya Dika",
+    "publisher": "Gagas Media",
+    "bookName": "Manusia Setengah Salmon",
+    "releaseYear": 2011,
+    "bookType": "Fiction, Humor, Romance",
+    "status": "available"
+  },
+  {
+    "bookCode": 99,
+    "borrowedUntil": "-",
+    "author": "Salim A. Fillah",
+    "publisher": "Aqwam Publishing",
+    "bookName": "Bukan Salah Jodoh",
+    "releaseYear": 2011,
+    "bookType": "Non-fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 100,
+    "borrowedUntil": "-",
+    "author": "Ernest Prakasa",
+    "publisher": "Rak Buku",
+    "bookName": "Ngenest 1",
+    "releaseYear": 2015,
+    "bookType": "Fiction Comedy",
+    "status": "available"
+  },
+  {
+    "bookCode": 101,
+    "borrowedUntil": "-",
+    "author": "Raditya Dika",
+    "publisher": "Gagas Media",
+    "bookName": "Koala Kumal",
+    "releaseYear": 2015,
+    "bookType": "Fiction, Humor, Romance",
+    "status": "available"
+  },
+  {
+    "bookCode": 102,
+    "borrowedUntil": "-",
+    "author": "Tere Liye, Triana Rahmawati",
+    "publisher": "Jakarta Republika Penerbit",
+    "bookName": "Tentang Kamu",
+    "releaseYear": 2017,
+    "bookType": "Fiction",
+    "status": "available"
+  },
+  {
+    "bookCode": 103,
+    "borrowedUntil": "-",
+    "author": "Aji Nur Afifah",
+    "publisher": "Qultum Media",
+    "bookName": "Melangkah Searah",
+    "releaseYear": 2019,
+    "bookType": "Romance",
+    "status": "available"
+  }
+]

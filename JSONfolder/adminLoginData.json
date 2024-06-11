@@ -1,0 +1,20 @@
+[
+  {
+    "password": "1234",
+    "name": "Rama Diaz",
+    "email": "ramadiaz221@gmail.com",
+    "username": "adminRama"
+  },
+  {
+    "password": "22345",
+    "name": "Randy Todak",
+    "email": "randy221@gmail.com",
+    "username": "ransskuy"
+  },
+  {
+    "password": "2211",
+    "name": "Jason  Rayan",
+    "email": "jason@student.unssika.ac.id",
+    "username": "jasss"
+  }
+]
